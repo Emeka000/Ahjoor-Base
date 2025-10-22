@@ -9,6 +9,8 @@ Foundry consists of:
 -   **Anvil**: Local Ethereum node, akin to Ganache, Hardhat Network.
 -   **Chisel**: Fast, utilitarian, and verbose solidity REPL.
 
+-   this is the link for the deployed contract on  baseb scan: https://sepolia.basescan.org/address/0x1f79e558e2811f87377c202464763d5172027e2b
+
 ## Documentation
 
 https://book.getfoundry.sh/
